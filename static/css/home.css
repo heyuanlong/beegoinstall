@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+}
+#header {
+    padding-top: 35px;
+    border-bottom: 1px solid #D8D5D5;
+
+}
+
+.head_row {
+    padding-left: 15%;
+}
+a {
+    text-decoration: none;
+}
+#logo {
+    color: #333;
+    font-size: 2.5em;
+}
+.description {
+    margin: .5em 0 0;
+    color: #999;
+    font-style: italic;
+}
+
+.container {
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 80%;
+	height: 1500px;
+    background-color: #4E8475;
+}
+
+.main{
+	float: left;
+	width: 70%;
+	height: 1500px;
+	background-color: #99E4DD;
+}
+.secondary{
+	float: right;
+	width: 25%;
+	height: 1500px;
+	background-color: #99E4DD;
+}

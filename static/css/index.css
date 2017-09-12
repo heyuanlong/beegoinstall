@@ -1,0 +1,107 @@
+
+.mymessage{
+	margin-top: 8%;
+	text-align:center;
+}
+
+.jianli{
+	color: #e96ba8;
+	text-decoration: none;
+}
+.myqq{
+	text-decoration: none;
+	color: #8D90E0;
+}
+.myemail{
+	text-decoration: none;
+	color: #1AD84C;
+}
+
+
+#links {
+    width: 100%;
+    height: 25%;
+    position: absolute;
+    bottom: 0px;
+}
+.csdn{
+	margin-left: 25%;
+    width: 25%;
+    height: 100%;
+    float: left;
+    display: block;
+
+    color:  #EA1010;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+ .csdn:hover {
+ 	background: #00acee;
+ }
+
+ .cnblog{
+    width: 25%;
+    height: 100%;
+    float: left;
+    display: block;
+
+    color:  #00acee;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}
+ .cnblog:hover {
+ 	background: #ea4c89;
+ }
+
+
+
+
+
+ /*------------------------------------------------------*/
+
+.divform{
+    width:100%;
+    text-align: center;
+    margin-top: 10%;
+}
+form{
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.form-input{
+    width: 80%;
+
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.form-button{
+    width: 19%;
+
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+
+
+
+

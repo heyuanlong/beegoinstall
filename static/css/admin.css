@@ -1,0 +1,17 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+	width: 80%;
+	margin:20px auto;
+}
+.menu{
+	float: left;
+	width: 7%;
+}
+.main{
+	float: left;
+	width: 93%;
+}

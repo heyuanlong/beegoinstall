@@ -1,0 +1,51 @@
+
+.contain{
+    width:100%;
+    text-align: center;
+    margin-top: 3%;
+}
+form , .content{
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.form-input{
+    width: 80%;
+
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.form-button{
+    width: 19%;
+
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.item{
+    text-align:left;
+    font-size: 22px;
+}
+.article_title{
+    color: #1982d1;
+    text-decoration: none;
+}
+.article_title:hover{
+    color: orange;
+    text-decoration: none;
+}
